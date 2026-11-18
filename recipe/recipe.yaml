@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.7.0"
+  version: "0.8.0"
   python_min: "3.11"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/starlette-cramjam/starlette_cramjam-${{ version }}.tar.gz
-  sha256: 38a70bea50d2fce91eb43acbddd544c1c7d4b5de4b26a482472d7dc142024edd
+  sha256: e853ed4c9d581fdc95d20a94f9e73bc815dc933d7d54d5afc57f3662bab676a1
 
 build:
   number: 0
